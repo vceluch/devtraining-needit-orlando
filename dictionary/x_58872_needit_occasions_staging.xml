@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A" label="A" max_length="40" name="u_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=April" label="April" max_length="40" name="u_april" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=August" label="August" max_length="40" name="u_august" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=average" label="average" max_length="40" name="u_average" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="40" name="u_b" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=December" label="December" max_length="40" name="u_december" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=February" label="February" max_length="40" name="u_february" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=January" label="January" max_length="40" name="u_january" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=July" label="July" max_length="40" name="u_july" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=June" label="June" max_length="40" name="u_june" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=March" label="March" max_length="40" name="u_march" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=May" label="May" max_length="40" name="u_may" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=November" label="November" max_length="40" name="u_november" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=October" label="October" max_length="40" name="u_october" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=September" label="September" max_length="40" name="u_september" type="glide_date_time"/>
+    </element>
+</database>
